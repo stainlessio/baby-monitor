@@ -1,0 +1,11 @@
+[package]
+name = "baby-monitor"
+version = "0.1.0"
+authors = ["Russell Hay <russell.hay@gmail.com>"]
+
+[dependencies]
+juniper = "~0.9"
+juniper_rocket = "~0.1"
+chrono = "~0.4"
+rocket = "~0.3"
+rocket_codegen = "~0.3"
